@@ -1,6 +1,7 @@
 ---
+layout: post
+title: ""
 ---
-
 <h1 style="text-align: center;">Research</h1>
 
 ******
