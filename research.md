@@ -11,14 +11,24 @@ with Ryan Jablonski (forthcoming)
 <details><summary>Abstract</summary>
 Voters and politicians often blame tallying irregularities on fraud, undermining perceptions of democratic and electoral credibility. Yet such irregularities also result from capacity failures and human error. We introduce several methods to assess competing causes of tallying irregularities leveraging the quasi-random administration of polling stations. Using these methods, we revisit the case of the 2019 Malawian presidential election which was famously cancelled by the High Court due to widespread tallying irregularities and accusations of fraud. Contrary to the dominant consensus, we do not find evidence that irregularities were motivated by fraud or that they benefited the incumbent. Instead, we show that irregularities increased in proportion to the complexity of filling in result-sheets, suggesting a dominant role for human error. In addition to reinterpreting a historically important election, we also make the case that policy efforts to improve electoral credibility could productively be reallocated towards electoral administration rather than anti-fraud measures.
 </details>
+Please find a draft paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5246542).
 
 ******
 
-### Building confidence in election results: lessons from a conjoint experiment
+### Projecting Politics: How Voters Infer Community Support in Low-Information Environments
+with Alex Yeandle (forthcoming)
+<details><summary>Abstract</summary>
+Research on projection shows that people overestimate the prevalence of their own views among others, and this can significantly shape political behaviour. But existing studies focus on wealthy information-rich democracies, rather than lower-income, uncertain settings where such perceptions are an important, high-stakes part of everyday political life. Misjudging others risks constraining voters' ability to coordinate, which can undermine provision of public goods, confidence in election outcomes, or efforts to overthrow dominant parties. Using original survey data from Malawi, in a pre-registered research design, we show that individuals in a low-income setting systematically overestimate support for their own party and the prevalence of their own ethnic group, while politically engaged individuals overestimate participation by those around them. These findings add new microfoundational insights to the study of politics in low-income states, while highlighting several avenues for future work going forward.
+</details>
+
+******
+
+### What drives public trust in elections? Experimental evidence from Malawi
 with Alex Yeandle (funded project)
 <details><summary>Abstract</summary>
-Amidst growing concern about disinformation in elections, public faith in official election results have never felt more important. From the US to Brazil to the DRC, results are regularly challenged in court and their legitimacy called into question, placing increasing importance on how elections are administered and how voters’ confidence in them can be ensured. Such interventions – like polling staff training, the presence of monitors, and transparency of election results – have been found to reduce “objective” electoral irregularities in many countries. Yet, we know little about how these shape “subjective” judgements by voters themselves, and if they enhance trust in the legitimacy of elections. We carry out a conjoint choice experiment in Malawi to address this question. In our experiment, respondents are presented with pairs of polling station profiles, containing randomised information about the home-region (and presumed loyalties) of presiding officers, level of education of polling station staff, the presence and type of election monitors and party representatives, and transparency measures in place. Respondents are then asked to select the polling stations they think deliver more trustworthy results.
+International donors have invested heavily in strenghtening electoral administration in low-income democracies, aiming to reduce irregularities and build trust. However, we know little about whether these interventions actually improve public perceptions. Using a conjoint choice experiment in Malawi, randomising organisational features of polling stations and their potential for political bias, we examine the determinants of public trust in a low-income setting. Voters are more trusting of stations with well-trained polling staff, independent monitors, security personnel, and transparency measures - effects driven by sanctioning the absence of these basic requirements. Respondents also prioritise procedurally fair measures over those that exclusively benefit their own party or ethnic group, challenging assumptions about the dominance of partisanship and ethnicity in African elections. We contribute to the literature on election administration and public opinion in low-income settings, while highlighting ways in which resource-constrained election bodies can build and maintain public support.
 </details>
+Please find a draft paper [here](https://osf.io/preprints/osf/xhuz5_v1).
 
 ******
 
