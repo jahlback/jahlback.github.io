@@ -56,4 +56,17 @@ How does foreign aid affect elections? To reconcile mixed evidence, we re-concep
 
 ******
 
+### Natural Disasters and Electoral Politics in Low-Income States
+with Alex Yeandle
+<details><summary>Abstract</summary>
+Climate change is making natural disasters more frequent, including in low-income countries where governments lack the capacity to respond effectively. Yet despite these vulnerabilities, little is known about how disasters shape electoral outcomes in such contexts. We provide new evidence by studying the impact of Cyclone Idai, the second dedliest cyclone in recorded history, whcih struck Malawi's Southern region just months before the 2019 general election. 
 
+In a difference-in-difference setting, leveraging geocoded polling station returns and granular measures of flood and landslide exposure, we show that incumbent vote share declined significantly in affected areas, while voter turnout rose. These effects persist into the 2020 re-run election, are robust to alternative specifications and placebo tests, and are driven by areas where the ruling party had relatively weaker prior levels of support. 
+
+To explain these patterns, we turn to a range of individual-level survey data and qualitative evidence. First, voters in government strongholds appear to have been more financially resilient, dampening the economic impact of flooding. Second, opposition parties strategically concentrated campaign efforts in other flood-affected areas, plausibly eroding local support for the ruling party. Third, relaxed voter identification requirements and targeted civic education in flooded areas may have contributet to higher turnout. 
+
+Collectively. these findings contribute to literature on climate change, accountability, and political behaviour in low-capacity states, highlighting dynamics likely to become increasingly salient as climate shocks intensify going forward. 
+</details>
+
+
+******
