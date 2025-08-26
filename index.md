@@ -3,7 +3,7 @@ layout: post
 title: ""
 ---
 
-!(/jahlback.github.io/assets/me.jpg)
+![image](/jahlback.github.io/assets/me.jpg)
 
 ******
 <h1 style="text-align: center;">Johan Ahlb&auml;ck</h1>
