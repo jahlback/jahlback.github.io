@@ -2,7 +2,7 @@
 layout: post
 title: ""
 ---
-![image](/assets/me.jpg){: width="100"}
+![image](/assets/me.jpg){: width="50"}
 
 ******
 <h1 style="text-align: center;">Johan Ahlb&auml;ck</h1>
