@@ -3,7 +3,7 @@ layout: post
 title: ""
 ---
 
-![picture](/assets/me350.jpg)
+![picture](/assets/me350A.jpg)
 
 ******
 
