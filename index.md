@@ -2,8 +2,7 @@
 layout: post
 title: ""
 ---
-
-![image](/jahlback.github.io/assets/me.png)
+![image](/assets/me.jpg){: width="250"}
 
 ******
 <h1 style="text-align: center;">Johan Ahlb&auml;ck</h1>
