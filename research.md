@@ -4,8 +4,9 @@ title: ""
 ---
 <h1 style="text-align: center;">Research</h1>
 
-Published
-------
+## Published
+
+******
 
 ### How to distinguish human error from election fraud: Evidence from the 2019 Malawi election
 with Ryan Jablonski (forthcoming)
@@ -14,7 +15,6 @@ Voters and politicians often blame tallying irregularities on fraud, undermining
 </details>
 Please find a draft paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5246542).
 
-******
 
 ### How information about foreign aid affects public spending decisions: Evidence from a field experiment in Malawi
 with Brigitte Seim and Ryan Jablonski, Journal of Development Economics, September 2020
@@ -22,8 +22,6 @@ with Brigitte Seim and Ryan Jablonski, Journal of Development Economics, Septemb
 Does foreign aid shift public spending? Many worry that aid will be “fungible” in the sense that governments reallocate public funds in response to aid. If so, this could undermine development, increase the poorest's dependency on donors, and free resources for patronage. Yet, there is little agreement about the scale or consequences of such effects. We conducted an experiment with 460 elected politicians in Malawi. We provided information about foreign aid projects in local schools to these politicians. Afterwards, politicians made real decisions about which schools to target with development goods. Politicians who received the aid information treatment were 18% less likely to target schools with existing aid. These effects increase to 22–29% when the information was plausibly novel. We find little evidence that aid information heightens targeting of political supporters or family members, or dampens support to the neediest. Instead the evidence indicates politicians allocate the development goods in line with equity concerns.
 </details>
 Please find the full article [here](https://www.sciencedirect.com/science/article/abs/pii/S0304387820300973).
-
-******
 
 ## Work in progress
 
@@ -36,8 +34,6 @@ International donors have invested heavily in strenghtening electoral administra
 </details>
 Please find a draft paper [here](https://osf.io/preprints/osf/xhuz5_v1).
 
-******
-
 ### Projecting Politics: How Voters Infer Community Support in Low-Information Environments
 with Alex Yeandle
 <details><summary>Abstract</summary>
@@ -45,15 +41,12 @@ Research on projection shows that people overestimate the prevalence of their ow
 </details>
 
 
-******
-
 ### Foreign aid is neither a curse nor a blessing: Explaining the effect of foreign aid on voting behaviour and accountability
 with Ryan Jablonski and Brigitte Seim
 <details><summary>Abstract</summary>
 How does foreign aid affect elections? To reconcile mixed evidence, we re-conceptualize the effect of aid on elections as a retrospective voting problem and show that the electoral effects of foreign aid are heterogeneous and depend on the distribution of aid and voter beliefs. To test our argument, we conducted a survey among 2,331 citizens around a sample of 180 schools in Malawi before and after the delivery of a foreign NGO project. Additionally, we conducted a SMS-based information experiment which varied voter knowledge about the aid allocation process. In line with expectations, voters who benefit from aid are more likely to anticipate voting for incumbents. But overall aid was a mixed blessing for incumbents: when citizens learn about aid, but fail to benefit, we document a sizable backlash against incumbents. Citizens were less likely to be satisfied with or vote for incumbents.
 </details>
 
-******
 
 ### Natural Disasters and Electoral Politics in Low-Income States
 with Alex Yeandle
@@ -68,4 +61,3 @@ Collectively. these findings contribute to literature on climate change, account
 </details>
 
 
-******
