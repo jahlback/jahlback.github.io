@@ -6,7 +6,6 @@ title: ""
 
 ## Published
 
-******
 
 ### How to distinguish human error from election fraud: Evidence from the 2019 Malawi election
 with Ryan Jablonski (forthcoming)
@@ -15,6 +14,7 @@ Voters and politicians often blame tallying irregularities on fraud, undermining
 </details>
 Please find a draft paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5246542).
 
+******
 
 ### How information about foreign aid affects public spending decisions: Evidence from a field experiment in Malawi
 with Brigitte Seim and Ryan Jablonski, Journal of Development Economics, September 2020
@@ -23,9 +23,9 @@ Does foreign aid shift public spending? Many worry that aid will be â€œfungibleâ
 </details>
 Please find the full article [here](https://www.sciencedirect.com/science/article/abs/pii/S0304387820300973).
 
-## Work in progress
-
 ******
+
+## Work in progress
 
 ### What drives public trust in elections? Experimental evidence from Malawi
 with Alex Yeandle
@@ -34,12 +34,15 @@ International donors have invested heavily in strenghtening electoral administra
 </details>
 Please find a draft paper [here](https://osf.io/preprints/osf/xhuz5_v1).
 
+******
+
 ### Projecting Politics: How Voters Infer Community Support in Low-Information Environments
 with Alex Yeandle
 <details><summary>Abstract</summary>
 Research on projection shows that people overestimate the prevalence of their own views among others, and this can significantly shape political behaviour. But existing studies focus on wealthy information-rich democracies, rather than lower-income, uncertain settings where such perceptions are an important, high-stakes part of everyday political life. Misjudging others risks constraining voters' ability to coordinate, which can undermine provision of public goods, confidence in election outcomes, or efforts to overthrow dominant parties. Using original survey data from Malawi, in a pre-registered research design, we show that individuals in a low-income setting systematically overestimate support for their own party and the prevalence of their own ethnic group, while politically engaged individuals overestimate participation by those around them. These findings add new microfoundational insights to the study of politics in low-income states, while highlighting several avenues for future work going forward.
 </details>
 
+******
 
 ### Foreign aid is neither a curse nor a blessing: Explaining the effect of foreign aid on voting behaviour and accountability
 with Ryan Jablonski and Brigitte Seim
@@ -47,6 +50,7 @@ with Ryan Jablonski and Brigitte Seim
 How does foreign aid affect elections? To reconcile mixed evidence, we re-conceptualize the effect of aid on elections as a retrospective voting problem and show that the electoral effects of foreign aid are heterogeneous and depend on the distribution of aid and voter beliefs. To test our argument, we conducted a survey among 2,331 citizens around a sample of 180 schools in Malawi before and after the delivery of a foreign NGO project. Additionally, we conducted a SMS-based information experiment which varied voter knowledge about the aid allocation process. In line with expectations, voters who benefit from aid are more likely to anticipate voting for incumbents. But overall aid was a mixed blessing for incumbents: when citizens learn about aid, but fail to benefit, we document a sizable backlash against incumbents. Citizens were less likely to be satisfied with or vote for incumbents.
 </details>
 
+******
 
 ### Natural Disasters and Electoral Politics in Low-Income States
 with Alex Yeandle
@@ -60,4 +64,5 @@ To explain these patterns, we turn to a range of individual-level survey data an
 Collectively. these findings contribute to literature on climate change, accountability, and political behaviour in low-capacity states, highlighting dynamics likely to become increasingly salient as climate shocks intensify going forward. 
 </details>
 
+******
 
