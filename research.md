@@ -4,9 +4,8 @@ title: ""
 ---
 <h1 style="text-align: center;">Research</h1>
 
-## Published
-
-******
+Published
+------
 
 ### How to distinguish human error from election fraud: Evidence from the 2019 Malawi election
 with Ryan Jablonski (forthcoming)
