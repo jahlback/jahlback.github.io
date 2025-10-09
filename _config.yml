@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "contact.md", title: "Contact"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto: j.m.ahlback@lse.ac.uk"}
+  - {title: Mail, icon: envelope, url: "mailto: jahlback@stanford.edu"}
   - {title: Scholar, icon: graduation-cap, url: "https://scholar.google.co.uk/citations?user=Y8VDHDIAAAAJ&hl=en"}
   - {title: Github, icon: github, url: "https://github.com/jahlback"}
 
