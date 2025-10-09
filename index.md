@@ -16,4 +16,4 @@ I am a post-doctoral fellow in the [Department of Methodology](https://www.lse.a
 
 Before joining the Department of Methodology I worked as a teaching fellow at the Department of Politics and International Relations at Royal Holloway University. I received my Ph.D. from the Department of Government at London School of Economics and Political Science.
 
-A copy of my CV can be downloaded [here](./ahlback_cv.pdf)
+A copy of my CV can be downloaded [here](./CV_JA.pdf)
