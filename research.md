@@ -8,11 +8,11 @@ title: ""
 
 
 ### How to distinguish human error from election fraud: Evidence from the 2019 Malawi election
-with Ryan Jablonski (forthcoming)
+with Ryan Jablonski, British Journal of Political Science, Volume 55 2025
 <details><summary>Abstract</summary>
 Voters and politicians often blame tallying irregularities on fraud, undermining perceptions of democratic and electoral credibility. Yet such irregularities also result from capacity failures and human error. We introduce several methods to assess competing causes of tallying irregularities leveraging the quasi-random administration of polling stations. Using these methods, we revisit the case of the 2019 Malawian presidential election which was famously cancelled by the High Court due to widespread tallying irregularities and accusations of fraud. Contrary to the dominant consensus, we do not find evidence that irregularities were motivated by fraud or that they benefited the incumbent. Instead, we show that irregularities increased in proportion to the complexity of filling in result-sheets, suggesting a dominant role for human error. In addition to reinterpreting a historically important election, we also make the case that policy efforts to improve electoral credibility could productively be reallocated towards electoral administration rather than anti-fraud measures.
 </details>
-Please find a draft paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5246542).
+Please find the full article [here](https://doi.org/10.1017/S0007123425100951)
 
 ******
 
