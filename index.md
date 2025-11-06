@@ -15,6 +15,6 @@ I am a Social Science Research Fellow in the [School of Medicine](https://med.st
 
 My current research focus is on public health and especially off-target effects of vaccines on dementia. My other research interests also include political and electoral behaviour in developing democracies.  
 
-Before joining Stanford University, I was a post-doctoral fellow at the London School of Economics and Political Science and at Royal Holloway University. I received my Ph.D. from the Department of Government at London School of Economics and Political Science.
+Before joining Stanford University, I was a post-doctoral fellow at LSE and at Royal Holloway University. I received my Ph.D. from the Department of Government at LSE.
 
 A copy of my CV can be downloaded [here](./CV_JA.pdf)
