@@ -60,3 +60,11 @@ In wealthy democracies, the political impact of natural disasters depends largel
 
 ******
 
+### Temporal updating of retrospective election integrity evaluations
+with Alex Yeandle
+<details><summary>Abstract</summary>
+Survey-based retrospective evaluations of election integrity are widely used in comparative politics. These measures are typically interpreted as stable assessments of how voters think elections were conducted. We show, however, that retrospective integrity evaluations are temporally updated, that is, reconstructed at the time of the survey using contemporaneous political attitudes. Using repeated Afrobarometer surveys that ask identical questions about the same national election across multiple survey rounds, we analyse retrospective evaluations in 59 elections measured at different points in time. We show that respondents' assessments of a given election shift substantially across survey rounds and closely track changes in incumbent support, despite no change in the eleciton being evaluated. These patterns are robust across alternative measures and specifications, and are illustrated in an auxilliary case study. The findings demonstrate a systematic limitation of retrospective survey measures and caution against treating them as time-invariant indicators of past electoral quality.  
+</details>
+
+******
+
