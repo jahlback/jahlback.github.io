@@ -11,7 +11,7 @@ title: ""
 
 ******
 
-I am a Social Science Research Fellow in the [School of Medicine](https://med.stanford.edu/) at [Stanford University](https://www.stanford.edu/), part of the *Geldsetzer Lab*. I am also a Visiting Fellow at the [Department of Methodology](https://www.lse.ac.uk/methodology) at [London School of Economy and Political Science](https://www.lse.ac.uk/). 
+I am a Social Science Research Fellow in the [Department of Medicine (Primary Care and Population Health)](https://med.stanford.edu/pcph.html) at [Stanford University](https://www.stanford.edu/), part of the *Geldsetzer Lab*. I am also a Visiting Fellow at the [Department of Methodology](https://www.lse.ac.uk/methodology) at [London School of Economy and Political Science](https://www.lse.ac.uk/). 
 
 My current research examines the causal effects of vaccines on long-term health outcomes, with a focus on dementia. I work with large electronic patient records, using methods such as regression discontinuity designs, propensity score matching, and difference-in-differences designs to identify effects that are difficult to establish through conventional study designs. 
 
