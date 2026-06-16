@@ -6,6 +6,14 @@ title: ""
 
 ## Published
 
+### Projecting Politics: How Voters Infer Community Support in Low-Information Environments
+with Alex Yeandle
+<details><summary>Abstract</summary>
+Research on projection shows that people overestimate the prevalence of their own views among others, and this can significantly shape political behaviour. But existing studies focus on wealthy information-rich democracies, rather than lower-income, uncertain settings where such perceptions are an important, high-stakes part of everyday political life. Misjudging others risks constraining voters' ability to coordinate, which can undermine provision of public goods, confidence in election outcomes, or efforts to overthrow dominant parties. Using original survey data from Malawi, in a pre-registered research design, we show that individuals in a low-income setting systematically overestimate support for their own party and the prevalence of their own ethnic group, while politically engaged individuals overestimate participation by those around them. These findings add new microfoundational insights to the study of politics in low-income states, while highlighting several avenues for future work going forward.
+</details>
+Please find the full article [here](https://doi.org/10.1017/S1475676526101406)
+
+******
 
 ### How to distinguish human error from election fraud: Evidence from the 2019 Malawi election
 with Ryan Jablonski, British Journal of Political Science, Volume 55 2025
@@ -33,14 +41,6 @@ with Alex Yeandle
 International donors have invested heavily in strenghtening electoral administration in low-income democracies, aiming to reduce irregularities and build trust. However, we know little about whether these interventions actually improve public perceptions. Using a conjoint choice experiment in Malawi, randomising organisational features of polling stations and their potential for political bias, we examine the determinants of public trust in a low-income setting. Voters are more trusting of stations with well-trained polling staff, independent monitors, security personnel, and transparency measures - effects driven by sanctioning the absence of these basic requirements. Respondents also prioritise procedurally fair measures over those that exclusively benefit their own party or ethnic group, challenging assumptions about the dominance of partisanship and ethnicity in African elections. We contribute to the literature on election administration and public opinion in low-income settings, while highlighting ways in which resource-constrained election bodies can build and maintain public support.
 </details>
 Please find a draft paper [here](https://osf.io/preprints/osf/xhuz5_v1).
-
-******
-
-### Projecting Politics: How Voters Infer Community Support in Low-Information Environments
-with Alex Yeandle
-<details><summary>Abstract</summary>
-Research on projection shows that people overestimate the prevalence of their own views among others, and this can significantly shape political behaviour. But existing studies focus on wealthy information-rich democracies, rather than lower-income, uncertain settings where such perceptions are an important, high-stakes part of everyday political life. Misjudging others risks constraining voters' ability to coordinate, which can undermine provision of public goods, confidence in election outcomes, or efforts to overthrow dominant parties. Using original survey data from Malawi, in a pre-registered research design, we show that individuals in a low-income setting systematically overestimate support for their own party and the prevalence of their own ethnic group, while politically engaged individuals overestimate participation by those around them. These findings add new microfoundational insights to the study of politics in low-income states, while highlighting several avenues for future work going forward.
-</details>
 
 ******
 
