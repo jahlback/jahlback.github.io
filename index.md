@@ -17,7 +17,7 @@ My current research examines the causal effects of vaccines on long-term health 
 
 My other research interests lie in political and electoral behaviour in developing democracies, with a regional focus on Sub-Saharan Africa. I study topics including electoral integrity, the political consequences of natural disasters, and the effects of foreign aid on voting behaviour. Across both fields, I use a range of approaches - from field experiments and descriptive analyses to quasi-experimental designs - depending on what the research question demands.
 
-My research has been published in the British Journal of Political Science and the Journal of Development Economics.   
+My research has been published in the British Journal of Political Science, Journal of Development Economics, and European Journal of Political Research.   
 
 Before joining Stanford University, I was a post-doctoral fellow at LSE and at Royal Holloway University. I received my Ph.D. from the Department of Government at LSE.
 
